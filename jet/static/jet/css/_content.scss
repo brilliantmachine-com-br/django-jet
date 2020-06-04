@@ -283,6 +283,7 @@ img[src$="admin/img/icon-no.gif"] + span, img[src$="admin/img/icon-no.svg"] + sp
 }
 
 .icon-question:before {
+  font-weight: bold;
   color: $icon-success-color;
 }
 
