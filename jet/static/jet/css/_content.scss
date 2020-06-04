@@ -282,6 +282,10 @@ img[src$="admin/img/icon-no.gif"] + span, img[src$="admin/img/icon-no.svg"] + sp
   color: $icon-no-color;
 }
 
+.icon-question:before {
+  color: $icon-success-color;
+}
+
 /* LOADING INDOCATOR */
 
 .loading-indicator {
